@@ -1,2 +1,3 @@
-# GitHand-On
-This is Git Hand on Repo
+# Rahul Git HandsOn
+
+THIS IS HANDSON on Git 
